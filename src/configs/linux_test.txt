@@ -1,0 +1,18 @@
+"checkpoint": "/media/deepak/deepak/DeepLearning/MajorProject/TEST PROGRAMS/trainings/gulp_model/jester_conv_example/checkpoint.pth.tar",
+
+
+"train_data_folder": "/media/deepak/deepak/DeepLearning/MajorProject/DataSet/20bn-jester-v1-gulpio/train",
+ 
+  
+
+ "val_data_folder": "/media/deepak/deepak/DeepLearning/MajorProject/TESTDATASET/20bn-jester-v1-gulpio/test",
+
+  
+  "train_data_csv": "/media/deepak/deepak/DeepLearning/MajorProject/DataSet/csv_files/jester-v1-train.csv",
+ 
+  
+ "val_data_csv": "/media/deepak/deepak/DeepLearning/MajorProject/TESTDATASET/csv_files/jester-v1-validation.csv",
+ 
+   
+"labels_csv": "/media/deepak/deepak/DeepLearning/MajorProject/DataSet/csv_files/jester-v1-labels.csv",
+

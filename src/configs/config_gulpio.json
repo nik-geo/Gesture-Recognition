@@ -1,0 +1,33 @@
+{
+    "model_name": "jester_conv_example",
+    "checkpoint": "D:/DeepLearning/MajorProject/TEST PROGRAMS/trainings/gulp_model/jester_conv_example/checkpoint.pth.tar",
+
+    "train_data_folder": "D:/DeepLearning/MajorProject/DataSet/20bn-jester-v1-gulpio/train",
+
+    "val_data_folder": "D:/DeepLearning/MajorProject/TESTDATASET/videos",
+
+       "train_data_csv": "D:/DeepLearning/MajorProject/DataSet/csv_files/jester-v1-train.csv",
+
+    "val_data_csv": "D:/DeepLearning/MajorProject/TESTDATASET/project.csv",
+
+     "labels_csv": "D:/DeepLearning/MajorProject/DataSet/csv_files/jester-v1-labels.csv",
+
+
+
+
+    "num_workers": 0,
+
+    "output_dir": "trainings/gulp_model/",
+
+    "num_classes": 27,
+    "batch_size": 20,
+    "clip_size": 18,
+    "nclips": 1,
+    "step_size": 2,
+    "lr": 0.001,
+    "last_lr": 0.00001,
+    "momentum": 0.9,
+    "weight_decay": 0.00001,
+    "num_epochs": 11,
+    "print_freq": 100
+}

@@ -1,0 +1,30 @@
+"train_data_folder": "/media/deepak/deepak/DeepLearning/MajorProject/DataSet/20bn-jester-v1-gulpio/train",
+   
+
+ "val_data_folder": "/media/deepak/deepak/DeepLearning/MajorProject/DataSet/20bn-jester-v1-gulpio/validation",
+  
+  "train_data_csv": "/media/deepak/deepak/DeepLearning/MajorProject/DataSet/csv_files/jester-v1-train.csv",
+   
+ "val_data_csv": "/media/deepak/deepak/DeepLearning/MajorProject/DataSet/csv_files/jester-v1-validation.csv",
+ 
+   "labels_csv": "/media/deepak/deepak/DeepLearning/MajorProject/DataSet/csv_files/jester-v1-labels.csv",
+
+
+
+
+
+
+
+
+   
+ 
+
+"train_data_folder": "D:/DeepLearning/MajorProject/DataSet/20bn-jester-v1-gulpio/train",
+    
+"val_data_folder": "D:/DeepLearning/MajorProject/DataSet/20bn-jester-v1-gulpio/validation",
+ 
+   "train_data_csv": "D:/DeepLearning/MajorProject/DataSet/csv_files/jester-v1-train.csv",
+    
+"val_data_csv": "D:/DeepLearning/MajorProject/DataSet/csv_files/jester-v1-validation.csv",
+   
+ "labels_csv": "D:/DeepLearning/MajorProject/DataSet/csv_files/jester-v1-labels.csv",
